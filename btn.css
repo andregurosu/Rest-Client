@@ -1,0 +1,28 @@
+.kontena {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .button {
+    width: 200px;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px 0;
+    background-color: red;
+    border: none;
+    color: white;
+  }
+  button {
+    width: 200px;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px 0;
+    background-color: red;
+    border: none;
+    color: white;
+  }

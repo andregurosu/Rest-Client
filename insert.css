@@ -1,0 +1,56 @@
+body {
+    background: #373b44; /* fallback for old browsers */
+    background: -webkit-linear-gradient(
+      to right,
+      #4286f4,
+      #373b44
+    ); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(
+      to right,
+      #4286f4,
+      #373b44
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  
+  .konten {
+    width: 600px;
+    margin: auto;
+    margin-top: 10cm;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  input[type="text"]{
+    width: 100%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgb(230, 224, 224);
+    text-align: center;
+  }
+  
+  
+  input[type="password"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    background-color: rgb(230, 224, 224);
+    border: none;
+  }
+  
+  button {
+    width: 100%;
+    padding: 15px 0;
+    background-color: red;
+    border: none;
+    color: white;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
